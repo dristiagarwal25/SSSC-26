@@ -7,5 +7,7 @@ Welcome to my SSSC'26 Web Development Projects repository.
 *  Personal Portfolio (HTML)
 ## Technologies Used
 * HTML5
+* CSS
+* Javascript 
 * Visual Studio Code (Code Editor)
 This repository contains the projects and assignments I created while learning web development during the SSSC'26 Web Development Cohort.
